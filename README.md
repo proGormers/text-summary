@@ -4,8 +4,8 @@ CLS Programming Club Winter Project 2013
 TODO
 ----
 
-* Write some actual code
-
+* Add words to arrays of grammatical type
+* Generate new sentences 
 
 
 Plan for next meeting
