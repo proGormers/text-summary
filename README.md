@@ -11,5 +11,5 @@ TODO
 Plan for next meeting
 ---------------------
 
-* Start Coding!
 * (Mahmoud & Adem) Write a basic contextual web crawler in Ruby.
+* (Carlos & Fergus) Add grammar analysis to sentences.
